@@ -1,0 +1,28 @@
+.d-flex ::-webkit-input-placeholder{
+    color: white;
+}
+
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-toggler{
+    color: white;
+}
+
+.row .col h5{
+    font-size: 16px;
+}
+
+.row .col p{
+    font-size: 14px;
+}
+
+.type{
+    font-size: 12px;
+}
